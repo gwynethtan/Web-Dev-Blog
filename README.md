@@ -1,2 +1,1 @@
-# oka
-s
+# oka Webdevblog

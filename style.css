@@ -1,0 +1,56 @@
+html
+{
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+
+nav{
+   width: 125px;
+   background-color: white;
+   position: fixed;
+}
+
+li{
+    color:rgb(224, 63, 224);
+}
+
+li:hover{
+    color:purple;
+    font-weight: bold;
+}
+
+h1{
+    position:relative;
+    font-family: chewy;
+    color:rgb(202, 88, 126);
+    text-align: center;
+    font-size: 50px;
+    background-color: aliceblue;
+}
+
+div{
+    position:absolute;
+    top:85px;
+    left:175px;
+}
+
+h2{
+    font-weight: bolder;
+    color:palevioletred;
+}
+h3{
+    color:rgb(241, 120, 140);
+}
+
+.special{
+    color:rgb(235, 142, 158);
+}
+
+#info{
+    color:rgb(233, 163, 174);
+}
+
+img{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+}
